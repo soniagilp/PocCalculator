@@ -16,4 +16,4 @@ GET http://localhost:8080/resources/calculate?firstNumber=10&secondNumber=9&math
 
 Resultado 19.0
 
-6. Ejecutar test mvn clean test
+6. Desde consola ejecutar los test con mvn clean test
