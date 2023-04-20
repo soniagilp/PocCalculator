@@ -4,7 +4,7 @@ Calculadora como micro-servicio desarrollado con Spring-boot y Maven con las fun
 
 Api rest del recurso de acceso es un GET /resources/calculate?firstNumber= & secondNumber= & mathOperation= 
 
-1. Descargar el repositorio de github https://github.com/soniagilp/PocCalculator con pwd 1234
+1. Descargar el repositorio de github https://github.com/soniagilp/PocCalculator
 2. Desde consola ejecutar mvn validate
 3. Desde consola ejecutar mvn verify
 4. Desde consola ejecutar mvn clean install(contiene libreria tracer)
